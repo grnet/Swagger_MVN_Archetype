@@ -1,4 +1,13 @@
-
+#-------------------------------------------------------------------------------
+# Copyright (c) 2014 Kostas Vogias.
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the GNU Public License v3.0
+# which accompanies this distribution, and is available at
+# http://www.gnu.org/licenses/gpl.html
+# 
+# Contributors:
+#     Kostas Vogias - initial API and implementation
+#-------------------------------------------------------------------------------
 // The purpose of the `Content` object is to abstract away the data conversions
 // to and from raw content entities as strings. For example, you want to be able
 // to pass in a Javascript object and have it be automatically converted into a
